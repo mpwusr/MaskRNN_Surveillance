@@ -1,8 +1,3 @@
-# MaskRNN_Surveillance
-Below is a README for your GitHub project based on the Mask R-CNN surveillance system we adapted. It’s structured to be clear, concise, and professional, tailored to your assignment’s context while providing enough detail for others to understand, use, and contribute to the project. Feel free to tweak it based on your specific needs or repository details!
-
----
-
 # MaskRCNN-Surveillance
 
 **Automating Surveillance Image Analysis with Mask R-CNN**
